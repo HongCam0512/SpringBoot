@@ -1,0 +1,7 @@
+#nơi khai báo thông tin liên quan tới cấu hình của tất cả thư viện
+# application.properties và application.yml chỉ được sử dụng một trong 2, sd cả 2 lỗi, 2 cái đều giống nhau
+# appliacation.properties sử dụng biến và giá trị
+# application.yml khi khai báo phải cách ra một cách
+# sài .yml dễ nhìn hơn khi sử dụng .properties
+server:
+  port: 8083
